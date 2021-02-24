@@ -9,11 +9,29 @@
  */
 var steps = 0
 
+func incrementSteps() -> Int{
+    steps += 1
+    return steps
+}
 
 /*:
  Similarly, if you want to regularly provide progress updates to your user, you can put your control flow statements that check on progress into a function. Write a function called `progressUpdate` after the declaration of `goal` below. The function should print "You're off to a good start." if `steps` is less than 10% of `goal`, "You're almost halfway there!" if `steps` is less than half of `goal`, "You're over halfway there!" if `steps` is less than 90% of `goal`, "You're almost there!" if `steps` is less than `goal`, and "You beat your goal!" otherwise. Call the function and observe the printout. Remember, you can convert numbers using the appropriate Int or Double initializer.
  */
 let goal = 10000
 
+func progressUpdate(){
+    let percent = Double(steps) / Double(goal)
+    
+    switch percent {
+    case 0...0.1:
+        <#code#>
+    default:
+        <#code#>
+    }
+    
+    if percent < 0.1 {
+        print("You're off to a good start")
+    }
+}
 
 //: [Previous](@previous)  |  page 2 of 6  |  [Next: Exercise - Parameters and Argument Labels](@next)

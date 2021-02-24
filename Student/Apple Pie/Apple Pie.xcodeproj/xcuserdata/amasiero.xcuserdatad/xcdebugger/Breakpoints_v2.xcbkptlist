@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9A9706F6-EB1A-4CE3-AF85-8CF8387FBF34"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39EBE253-709D-40BF-8F1F-088059C999EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Pie/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "39EBE253-709D-40BF-8F1F-088059C999EB - ca4a9c70702d03b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.totalLosses.getter : Swift.Int"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amasiero/Desktop/Projetos/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "39EBE253-709D-40BF-8F1F-088059C999EB - 720ee07e4dcc3044"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.totalLosses.setter : Swift.Int"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amasiero/Desktop/Projetos/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "39EBE253-709D-40BF-8F1F-088059C999EB - 85f217dadc2e227d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.totalLosses.modify : Swift.Int"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amasiero/Desktop/Projetos/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "39EBE253-709D-40BF-8F1F-088059C999EB - dd300b99bee66b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.totalLosses.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amasiero/Desktop/Projetos/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "39EBE253-709D-40BF-8F1F-088059C999EB - a3b6149c6ffa7e91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Apple_Pie.ViewController"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amasiero/Desktop/Projetos/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "859">
+               </Location>
+               <Location
+                  uuid = "39EBE253-709D-40BF-8F1F-088059C999EB - ad03c93e1e4ce155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Apple_Pie.ViewController&gt;"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amasiero/Desktop/Projetos/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "800">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38600782-78C4-4ABB-A6E4-C4291EDA2525"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Pie/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "updateGameState()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
